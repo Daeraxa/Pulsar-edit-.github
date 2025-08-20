@@ -200,7 +200,7 @@ the variable within `.cirrus.yml` in `pulsar-edit/pulsar`.
 
 ### 3.3 `CSC_LINK`
 
-***DESCRIPTION**
+**DESCRIPTION**
 
 Identical to `2.4`.
 
@@ -214,7 +214,7 @@ Identical to `2.4`.
 
 ### 3.4 `CSC_KEY_PASSWORD`
 
-***DESCRIPTION**
+**DESCRIPTION**
 
 Identical to `2.3`.
 
@@ -228,7 +228,7 @@ Identical to `2.3`.
 
 ### 3.5 `APPLEID`
 
-***DESCRIPTION**
+**DESCRIPTION**
 
 Identical to `2.1`.
 
@@ -242,7 +242,7 @@ Identical to `2.1`.
 
 ### 3.6 `APPLEID_PASSWORD`
 
-***DESCRIPTION**
+**DESCRIPTION**
 
 Identical to `2.1`.
 
@@ -256,7 +256,7 @@ Identical to `2.1`.
 
 ### 3.7 `TEAM_ID`
 
-***DESCRIPTION**
+**DESCRIPTION**
 
 Identical to `2.7`.
 
