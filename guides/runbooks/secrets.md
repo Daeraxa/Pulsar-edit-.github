@@ -179,7 +179,7 @@ specific resources.
 **OWNERSHIP**
 
 - Last Updated: August 2025
-- Who: Unknown
+- Who: DeeDeeG
 
 ### 3.2 `ROLLING_UPLOAD_TOKEN`
 
