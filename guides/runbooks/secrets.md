@@ -163,7 +163,7 @@ this document will use the names we assign to them within `pulsar-edit/pulsar/.c
 
 A GitHub PAT token with zero permissions. This token is used so that CirrusCI's
 API requests to GitHub are authenticated and have a higher API rate limit.
-This was done due to a high number of requests when downloading 'RipGrep'.
+This was done due to a high number of requests when downloading `ripgrep`.
 
 **IMPORTANT**
 
