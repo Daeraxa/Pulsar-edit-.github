@@ -283,7 +283,7 @@ the variable within `.cirrus.yml` in `pulsar-edit/pulsar`.
 **OWNERSHIP**
 
 - Last Updated: August 2025
-- Who: Unknown
+- Who: DeeDeeG
 
 ## 4. Google Cloud: Secret Manager
 
