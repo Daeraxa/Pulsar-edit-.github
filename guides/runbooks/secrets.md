@@ -36,7 +36,7 @@ Accessible from `https://github.com/pulsar-edit/pulsar/settings/secrets/actions`
 
 **DESCRIPTION**
 
-The AppleID of a developer Apple account, that allows us to sign macOS binaries produced
+The AppleID of a developer Apple account. Allows us to sign macOS binaries produced
 in GitHub Actions.
 
 **IMPORTANT**
