@@ -168,8 +168,10 @@ This was done due to a high number of requests when downloading `ripgrep`.
 **IMPORTANT**
 
 PAT tokens by default have an expiration date, and if/when this token expires it
-**must** be updated by creating a new CirrusCI 'Secured Variable' and modifying
-the variable within `.cirrus.yml` in `pulsar-edit/pulsar`.
+**must** be updated by creating a new CirrusCI 'Secured Variable' and either
+modifying the variable within `.cirrus.yml` in `pulsar-edit/pulsar`, or updating
+the 'Environment variable overrides' entry for `GITHUB_TOKEN` in the Cirrus CI
+web UI.
 
 **PERMISSIONS**
 
