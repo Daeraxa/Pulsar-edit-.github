@@ -20,7 +20,7 @@ The secret has very limited _visibility_, only being visible to the repositories
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: confused-Techie
 
 ## 2 `pulsar-edit/pulsar` Repository Level Secrets
@@ -41,7 +41,7 @@ These permissions will fail if the developer has not agreed to the newest Apple 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: meadowsys
 
 ### 2.2 `APPLEID_PASSWORD`
@@ -56,7 +56,7 @@ These permissions will fail if the developer has not agreed to the newest Apple 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: meadowsys
 
 ### 2.3 `CSC_KEY_PASSWORD`
@@ -71,7 +71,7 @@ These permissions will fail if the developer has not agreed to the newest Apple 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: meadowsys
 
 ### 2.4 `CSC_LINK`
@@ -86,7 +86,7 @@ These permissions will fail if the developer has not agreed to the newest Apple 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: meadowsys
 
 ### 2.5 `ELECTRON_NEXT_BINARIES_UPLOAD_TOKEN`
@@ -101,7 +101,7 @@ PAT tokens by default have an expiration date, and if/when this token expires it
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: DeeDeeG
 
 ### 2.6 `ROLLING_RELEASE_UPLOAD_TOKEN`
@@ -116,7 +116,7 @@ PAT tokens by default have an expiration date, and if/when this token expires it
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: DeeDeeG
 
 ### 2.7 `TEAM_ID`
@@ -131,7 +131,7 @@ These permissions will fail if the developer has not agreed to the newest Apple 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: meadowsys
 
 ## 3. CirrusCI Secrets
@@ -154,7 +154,7 @@ This token requires **zero** permissions, as it doesn't access any organization 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: DeeDeeG
 
 ### 3.2 `ROLLING_UPLOAD_TOKEN`
@@ -169,7 +169,7 @@ PAT tokens by default have an expiration date, and if/when this token expires it
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: DeeDeeG
 
 ### 3.3 `CSC_LINK`
@@ -254,7 +254,7 @@ PAT tokens by default have an expiration date, and if/when this token expires it
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: DeeDeeG
 
 ## 4. Google Cloud: Secret Manager
@@ -387,7 +387,7 @@ This token requires **zero** permissions, as it doesn't access any organization 
 
 #### Ownership
 
-- Last Updated: August 2025
+- Accurate as of: August 2025
 - Who: confused-Techie
 
 ### 4.9 `WEBHOOKS_MICROSERVICE_TOKEN`
