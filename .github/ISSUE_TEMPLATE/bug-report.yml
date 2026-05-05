@@ -8,6 +8,8 @@ body:
     label: Thanks in advance for your bug report!
     description: "Please make sure you have done the following:"
     options:
+      - label: Have you checked your issue is not in our list of [common issues](https://docs.pulsar-edit.dev/troubleshooting-pulsar/common-issues/)?
+        required: true
       - label: Have you reproduced issue in [safe mode](https://docs.pulsar-edit.dev/troubleshooting-pulsar/using-safe-mode)?
         required: true
       - label: Have you used the [debugging guide](https://docs.pulsar-edit.dev/troubleshooting-pulsar) to try to resolve the issue?
